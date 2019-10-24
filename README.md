@@ -3,6 +3,9 @@ My favorite fonts.
 
 ## Font list
 - [x] Avenir Next
+- [ ] Helvetica
+- [ ] Helvetica Neue
+- [ ] Menlo
 - [x] NotoSansCJKsc-hinted
 - [x] NotoSerifCJKsc-hinted
 - [x] Open Sans
