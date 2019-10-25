@@ -23,5 +23,8 @@ There are more open source fonts.
 * [Adobe Fonts](https://fonts.adobe.com)
 * [Google Fonts](https://fonts.google.com)
 
+## How-to
+Install and remove fonts on your [Mac](https://support.apple.com/en-us/HT201749) or [Windows PC](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
+
 ## Contribution
 Is there any other fonts you love? Please tell me or pull request.
