@@ -2,10 +2,11 @@
 My favorite fonts.
 
 ## Font list
+- [x] Arial
 - [x] Avenir Next
-- [ ] Helvetica
-- [ ] Helvetica Neue
-- [ ] Menlo
+- [x] Helvetica
+- [x] Helvetica Neue
+- [x] Menlo
 - [x] NotoSansCJKsc-hinted
 - [x] NotoSerifCJKsc-hinted
 - [x] Open Sans
@@ -15,3 +16,9 @@ My favorite fonts.
 - [x] SF Pro
 - [x] SF Pro Text
 - [x] SF UI
+- [x] Uber
+
+## More
+There are more open source fonts.
+* [Adobe Fonts](https://fonts.adobe.com)
+* [Google Fonts](https://fonts.google.com)
